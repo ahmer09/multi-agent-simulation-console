@@ -119,16 +119,8 @@ GOOGLE_API_KEY=your_google_api_key_here
 
 ### Running the App
 
-Open two terminals:
-
 ```bash
 # Terminal 1 — start the backend
-cd server
-npm run dev
-# Server running on http://localhost:3001
-
-# Terminal 2 — start the frontend
-cd client
 npm run dev
 # Dashboard running on http://localhost:5173
 ```
