@@ -82,7 +82,7 @@ multi-agent-simulation-console/
 
 - **Node.js** v18+
 - **npm** v9+
-- API key(s) for your chosen LLM provider (Claude or Gemini)
+- API keys for your chosen LLM provider (Claude or Gemini)
 
 ### Installation
 
